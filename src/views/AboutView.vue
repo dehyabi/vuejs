@@ -1,6 +1,6 @@
 <template>
   <div>
-    <TwoInOne :name="'Welcome to About Page'" :imgsrc="cat" visit="'/services '" :btnName="'Services'" />
+    <TwoInOne :name="'Welcome to About Page'" :imgsrc="cat" :visit="'/services '" :btnName="'Services'" />
   </div>
 </template>
 

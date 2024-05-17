@@ -11,7 +11,7 @@
       </h1>
       <p class="text-2xl md:text-4xl text-slate-700">We are caring about cat</p>
       <router-link
-        to="/services"
+        :to="visit"
         class="bg-blue-600 hover:bg-blue-700 outline-none px-12 py-4 rounded-full mt-3 text-white text-xl font-medium"
       >
         {{ btnName }}

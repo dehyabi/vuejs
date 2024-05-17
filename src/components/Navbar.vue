@@ -5,7 +5,7 @@
     <div
       class="text-3xl font-extrabold text-blue-600 hover:text-blue-700 cursor-pointer"
     >
-      <router-link to="/"><i class="bi bi-code"></i> Dehya Qalbi</router-link>
+      <router-link to="/"><i class="bi bi-emoji-smile-fill"></i> LoveCat</router-link>
     </div>
     <nav
       class="flex flex-col md:flex-row p-5 gap-4 md:gap-10 px-6 md:static absolute bg-white md:bg-transparent shadow-md md:shadow-none md:w-auto my-7 md:my-0 left-0 w-full duration-500"
